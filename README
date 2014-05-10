@@ -1,0 +1,4 @@
+Commander: Change the value of “DIGIT” {1-9} to a new operand.
+Soldier: Change the value of “GROUP” {LEFT, RIGHT} if you want to construct a right queue.
+	 Change the value of “NAVITYPE” {NAVIA, NAVIB} to match the type of navigator which following the soldier.
+Navigator: Change the value of “TYPE” {A, B} to match the navitype of soldier.
